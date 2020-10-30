@@ -4,10 +4,10 @@ https://gbatemp.net/threads/scripts-dsiware-conversion-easily-convert-to-nds-and
 
 This software is provided as-is
 
-Let's cut the to the chase: here are my DSiWare Conversion scripts. This allows you to copy DSiWare to your SD card from your DSi, and then convert them to a .NDS file (these files cannot run from a flashcart, don't ask!) for asset dumping, analysing, etc, or a .CIA file for installation on a 3DS!
+Let's cut the to the chase: here are my DSiWare Conversion scripts. This allows you to copy DSiWare to your SD card from your DSi, and then convert them to a `.NDS` file (these files cannot run from a flashcart, don't ask!) for asset dumping, analysing, etc, or a `.CIA` file for installation on a 3DS!
 
 
-How To Convert To .NDS:
+How To Convert To `.NDS`:
 
 - Download the attachment from below and extract it
 
@@ -17,7 +17,7 @@ How To Convert To .NDS:
 
 - Remove Your SD Card and insert it into your PC. Navigate to `SD``:`/`private`/`ds`/`title/`
 
-- Copy all of the .bin files to the dsiware folder
+- Copy all of the `.bin` files to the dsiware folder
 
 - Run `_BIN_To_NDS.nds`, it should start showing you the names of the DSiWare titles you are converting
 
@@ -30,7 +30,7 @@ How To Convert To `.CIA`:
 
 - Run `_NDS_To_CIA.bat`, it should start showing the output names of your DSiWare titles
 
-- Your `.CIA` files will be available in the output-cia folder
+- Your `.CIA` files will be available in the `output-cia` folder
 
 
 Credits:
