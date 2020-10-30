@@ -15,28 +15,28 @@ How To Convert To .NDS:
 
 - Open Data Management and copy any DSiWare you want to convert to your SD card
 
-- Remove Your SD Card and insert it into your PC. Navigate to SD:/private/ds/title/
+- Remove Your SD Card and insert it into your PC. Navigate to `SD``:`/`private`/`ds`/`title/`
 
 - Copy all of the .bin files to the dsiware folder
 
-- Run _BIN_To_NDS.nds, it should start showing you the names of the DSiWare titles you are converting
+- Run `_BIN_To_NDS.nds`, it should start showing you the names of the DSiWare titles you are converting
 
-- All extracted .NDS files will be available in the output-nds folder.
+- All extracted `.NDS` files will be available in the output-nds folder.
 
 
-How To Convert To .CIA:
+How To Convert To `.CIA`:
 
 - Follow the above steps
 
-- Run _NDS_To_CIA.bat, it should start showing the output names of your DSiWare titles
+- Run `_NDS_To_CIA.bat`, it should start showing the output names of your DSiWare titles
 
-- Your .CIA files will be available in the output-cia folder
+- Your `.CIA` files will be available in the output-cia folder
 
 
 Credits:
 
-CaitSith2 for dsi_srl_extract.exe
+CaitSith2 for `dsi_srl_extract.exe`
 
-3DSGuy for make_cia.exe
+3DSGuy for `make_cia.exe`
 
 [dpad_5678](https://gbatemp.net/members/dpad_5678.375705/) for making this possible
