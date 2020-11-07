@@ -27,7 +27,7 @@ Let's cut the to the chase: here are **[Dpad_5678](https://gbatemp.net/members/d
 
 - Your **`.CIA`** files will be available in the **`output-cia`** folder
 
-Credits:
+## Credits:
 
 - [CaitSith2](https://gbatemp.net/members/caitsith2.19974/) for **`dsi_srl_extract.exe`**
 
