@@ -2,7 +2,7 @@
 
 This software is provided as-is
 
-Let's cut the to the chase: here are **[Dpad_5678](https://gbatemp.net/members/dpad_5678.375705/)**'s **[DSiWare Conversion scripts](https://gbatemp.net/threads/scripts-dsiware-conversion-easily-convert-to-nds-and-cia-files.478575/)**. This allows you to copy **DSiWare** to your **SD Card** from your **DSi**, and then convert them to a **`.NDS`** file (***these files cannot run from a flashcart, don't ask!**) for asset dumping, analysing, etc, or a **`.CIA`** file for installation on a **3DS**!
+Let's cut the to the chase: here are **[Dpad_5678](https://gbatemp.net/members/dpad_5678.375705/)**'s **[DSiWare Conversion scripts](https://gbatemp.net/threads/scripts-dsiware-conversion-easily-convert-to-nds-and-cia-files.478575/)**. This allows you to copy **DSiWare** to your **SD Card** from your **DSi**, and then convert them to a **`.NDS`** file (***these files cannot run from a flashcart, don't ask!***) for asset dumping, analysing, etc, or a **`.CIA`** file for installation on a **3DS**!
 
 
 ### How To Convert To **`.NDS`**:
