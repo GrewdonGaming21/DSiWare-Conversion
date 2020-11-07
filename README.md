@@ -11,7 +11,9 @@ How To Convert To `.NDS`:
 
 - Download the attachment from below and extract it
 
-- Insert an SD card into your DSi(XL) and open System Settings
+- Insert an SD card into any of these systems and open System Settings
+  - DSi
+  - DSi XL
 
 - Open Data Management and copy any DSiWare you want to convert to your SD card
 
