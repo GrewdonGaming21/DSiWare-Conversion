@@ -35,8 +35,8 @@ How To Convert To `.CIA`:
 
 Credits:
 
-CaitSith2 for `dsi_srl_extract.exe`
+- [CaitSith2](https://gbatemp.net/members/caitsith2.19974/) for `dsi_srl_extract.exe`
 
-3DSGuy for `make_cia.exe`
+- [3DSGuy](https://gbatemp.net/members/3dsguy.304905/) for `make_cia.exe`
 
-[dpad_5678](https://gbatemp.net/members/dpad_5678.375705/) for making this possible
+- [dpad_5678](https://gbatemp.net/members/dpad_5678.375705/) for making this possible
